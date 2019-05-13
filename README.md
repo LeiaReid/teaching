@@ -26,7 +26,7 @@ Pupil numbers at secondary level are expected to rise by 19 per cent by 2025 as 
 In 2016 Ofsted warned thousands of teachers are being lured abroad with lucrative pay packages as England's struggled to recruit.
 More teachers left the UK, 18,000, to teach than trained, 17,000, on English postgraduate routes, according to department for education 2015 figures.
 
-https://jsfiddle.net/LeiaR/qsno6df8/20/
+<script async src="//jsfiddle.net/LeiaR/qsno6df8/embed/result/"></script>
 
 According to the Council of British Schools, teachers were motivated to work abroad for: travel and cultural exploration 71%,  enjoyment and a challenge 63%, dissatisfaction with home education system 47%, career growth 45%, and finally salary 44%.
 Ofsted chief inspector Sir Michael Wilshaw called for urgent action to plug the flood of teachers leaving the UK to teach abroad – fuelled by a “worldwide boom in international schools”.
