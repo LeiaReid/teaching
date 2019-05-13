@@ -1,10 +1,12 @@
-**Teaching**
+## The Teaching crisis
 
 Teachers are leaving the public school system at the highest rate since records began. One in three teachers quit within the first five years. But it’s not just funding cuts, staff are moving to warmer and higher paid climates, to different professions, and retiring at a larger rate. All while the department for education struggles to recruit teachers and maintain staffing targets.
 
 DfE figures show that 36,000 working-age teachers stepped down from the profession last year, with fewer being trained. But pupil figures are set to rise by 19% over the next decade; and we’ve still to get the Y2K (year 2000) baby-boom  high school!
 
-**Staff lost to funding cuts**
+Needless to say, access to great teachers who help children learn and set goals for themselves, h 
+
+<h2> Staff lost to funding cuts <h2>
 
 15,000 teachers were axed due to funding cuts in England in 2015-2016. When per-pupil funding levels started to fall, secondary schools lost 5.5 staff members on average.
 That’s 2.4 fewer classroom teachers, 1.6 fewer teaching assistants and 1.5 fewer support staff. 
