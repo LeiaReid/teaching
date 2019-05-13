@@ -1,3 +1,16 @@
+## Navigation
+
+[Introduction](https://leiareid.github.io/austerity/)
+
+[Devolved funding & education](https://leiareid.github.io/funding/)
+
+[Mental Health and mobility, in education](https://leiareid.github.io/example/)
+
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
+
+[Sources](https://leiareid.github.io/sources/)
+
+
 ## The teaching crisis
 
 Teachers are leaving the public school system at the highest rate since records began. One in three teachers quit within the first five years. Schools have worked hard to shield pupils from the £2.8 billion gutted from the English and Welsh 
