@@ -85,5 +85,16 @@ The Welsh Branch of the NUT warn this package isn’t enough, in an email to mys
 
 Department for education data shows a £640 difference on average per English and Welsh pupil.
 
+## Navigation
+
+[Introduction](https://leiareid.github.io/austerity/)
+
+[Devolved funding & education](https://leiareid.github.io/funding/)
+
+[Mental Health and mobility, in education](https://leiareid.github.io/example/)
+
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
+
+[Sources](https://leiareid.github.io/sources/)
 
 
