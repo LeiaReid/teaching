@@ -10,6 +10,8 @@ DfE figures show that 36,000 working-age teachers stepped down from the professi
 
 **Staff Numbers VS pupil numbers**
 
+<script async src="//jsfiddle.net/LeiaR/0f6x19rq/embed/result/"></script>
+
 According to Department for Education figures, staff numbers in secondary schools have fallen by 15,000 between 2014/15 and 2016/17 despite having 4,500 more pupils to teach.
 
 These frontline cuts are happening when classroom sizes are at their largest, which means less attention for children, and more stress for teachers.
