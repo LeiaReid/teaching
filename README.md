@@ -6,7 +6,7 @@
 
 [Mental Health and mobility, in education](https://leiareid.github.io/example/)
 
-[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/welfare/)
+[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/Welfare/)
 
 [Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
@@ -110,7 +110,7 @@ Department for education data shows a £640 difference on average per English an
 
 [Mental Health and mobility, in education](https://leiareid.github.io/example/)
 
-[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/welfare/)
+[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/Welfare/)
 
 [Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
